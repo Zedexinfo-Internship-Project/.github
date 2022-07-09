@@ -1,5 +1,5 @@
-## Seo and Content Management System 👋
-## Intenship Project for Zedexinfo Pvt. Ltd.
+# Seo and Content Management System 👋
+# Intenship Project for Zedexinfo Pvt. Ltd.
 
 
 # The Team:
